@@ -1,6 +1,23 @@
-# 💫 About Me:
-# Hi, I'm Sejal Thakur 👋<br><br>Aspiring Cloud & DevOps Engineer focused on AWS, Terraform, Docker, CI/CD, and cloud infrastructure automation.<br><br>## 🚀 About Me<br><br>* 🔭 Working on Cloud & DevOps projects<br>* 🌱 Learning Kubernetes & cloud-native technologies<br>* ⚙️ Interested in CI/CD, monitoring, automation, and scalable infrastructure<br>* 💬 Ask me about AWS, Docker, Terraform, Jenkins, GitHub Actions, Linux<br><br>## 🛠 Tech Stack<br><br>* **Cloud:** AWS<br>* **IaC & Automation:** Terraform, Ansible<br>* **CI/CD:** Jenkins, GitHub Actions<br>* **Containers:** Docker, Docker Swarm<br>* **Monitoring:** Prometheus, Grafana, CloudWatch<br>* **OS & Tools:** Linux, Git, GitHub<br>* **Databases:** PostgreSQL, MongoDB, Redis
+# Hi, I'm Sejal Thakur 👋
 
+Aspiring Cloud & DevOps Engineer focused on AWS, Terraform, Docker, CI/CD, and cloud infrastructure automation.
+
+## 🚀 About Me
+
+* 🔭 Working on Cloud & DevOps projects
+* 🌱 Learning Kubernetes & cloud-native technologies
+* ⚙️ Interested in CI/CD, monitoring, automation, and scalable infrastructure
+* 💬 Ask me about AWS, Docker, Terraform, Jenkins, GitHub Actions, Linux
+
+## 🛠 Tech Stack
+
+* **Cloud:** AWS
+* **IaC & Automation:** Terraform, Ansible
+* **CI/CD:** Jenkins, GitHub Actions
+* **Containers:** Docker, Docker Swarm
+* **Monitoring:** Prometheus, Grafana, CloudWatch
+* **OS & Tools:** Linux, Git, GitHub
+* **Databases:** PostgreSQL, MongoDB, Redis
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sejalthakurr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sejalthakur016@gmail.com) 
